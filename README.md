@@ -1,0 +1,2 @@
+# pro
+wordpress theme
